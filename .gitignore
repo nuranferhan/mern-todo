@@ -1,0 +1,37 @@
+# Dependencies (HER YERDE)
+node_modules/
+*/node_modules/
+**/node_modules/
+/node_modules/
+
+# Cache files
+.cache/
+*/.cache/
+**/.cache/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+build/
+dist/
+/build
+
+# Testing
+/coverage
+
+# System files
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Other
+.pnp
+.pnp.js
