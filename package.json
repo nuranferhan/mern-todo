@@ -1,18 +1,7 @@
 {
-  "name": "mern-todo",
-  "version": "1.0.0",
-  "main": "backend/app.js",
-  "scripts": {
-    "start": "node backend/app.js",
-    "dev": "cd backend && nodemon app.js"
-  },
-  "engines": {
-    "node": "18.x"
-  },
   "dependencies": {
     "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.2",
-    "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "mongoose": "^8.16.1"
