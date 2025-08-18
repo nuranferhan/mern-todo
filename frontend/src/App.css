@@ -18,7 +18,7 @@
   border-radius: 50%;
   animation: pulseFloat 8s ease-in-out infinite;
   z-index: -1;
-}
+} 
 
 .todo::after {
   content: '';

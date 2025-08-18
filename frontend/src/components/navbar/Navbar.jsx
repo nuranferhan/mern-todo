@@ -13,7 +13,7 @@ const Navbar = () => {
         sessionStorage.clear("id");
         dispatch(authActions.logout());
     }
-
+ 
     return (
         <div>
             <nav className="navbar navbar-expand-lg">

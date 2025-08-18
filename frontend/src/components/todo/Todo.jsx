@@ -21,7 +21,7 @@ const Todo = () => {
     if (textarea) {
       textarea.style.display = "block";
     }
-  };
+  }; 
 
   const change = (e) => {
     const { name, value } = e.target;

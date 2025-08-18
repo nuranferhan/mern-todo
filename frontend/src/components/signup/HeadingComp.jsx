@@ -12,3 +12,4 @@ const HeadingComp = ({first, second}) => {
 
 export default HeadingComp
 
+ 

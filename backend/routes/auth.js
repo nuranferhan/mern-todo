@@ -10,7 +10,7 @@ router.post("/register", async (req, res) => {
             $or: [
                 { email: email },
                 { username: username }
-            ]
+            ] 
         });
         if (existingUser) {
             return res.status(200).json({ message: "User Already Exists" });

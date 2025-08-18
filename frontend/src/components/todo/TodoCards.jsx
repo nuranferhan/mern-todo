@@ -21,7 +21,7 @@ const TodoCards = ({
     if (window.confirm("Are you sure you want to delete this task?")) {
       delid(id);
     }
-  };
+  }; 
 
   // Update 
   const handleUpdate = () => {

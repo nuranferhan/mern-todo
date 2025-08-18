@@ -10,7 +10,7 @@ app.use(cors());
 app.get("/", (req, res) => {
     res.send("Hello");
 }); 
-
+ 
 app.use("/api/v1", auth);
 app.use("/api/v2", list);
 

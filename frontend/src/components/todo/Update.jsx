@@ -36,7 +36,7 @@ const Update = ({ display, update, onUpdateComplete }) => {
     if (display && update && update._id) {
       const newTitle = update.title || "";
       const newBody = update.body || "";
-      
+       
       setInputs({
         title: newTitle,
         body: newBody,
