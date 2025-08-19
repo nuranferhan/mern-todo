@@ -1,4 +1,4 @@
-# myTasks - Modern MERN Stack Task Management Application
+# myTasks - Modern MERN Stack Task Management App
 <div align="center">
  <img src="https://img.shields.io/badge/myTasks-MERN%20Stack-8B5CF6?style=for-the-badge" alt="myTasks" />
  <img src="https://img.shields.io/badge/License-MIT-06B6D4?style=for-the-badge" alt="License" />
@@ -302,3 +302,4 @@ myTasks represents a comprehensive demonstration of modern full-stack JavaScript
 ---
 
 **Stack:** React.js • Node.js • Express.js • MongoDB • Redux
+
