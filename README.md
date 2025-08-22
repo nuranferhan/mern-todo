@@ -299,7 +299,12 @@ The application is production-ready with Vercel deployment configuration for the
 
 myTasks represents a comprehensive demonstration of modern full-stack JavaScript development, showcasing proficiency in MERN stack technologies while implementing industry best practices for security, performance, and user experience. The project exemplifies the ability to deliver production quality applications that balance functionality with aesthetic excellence.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 **Stack:** React.js • Node.js • Express.js • MongoDB • Redux
+
 
